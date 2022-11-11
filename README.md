@@ -1,3 +1,10 @@
+# Educational repository
+
+Based on https://github.com/deeamtee/react-pixi-cra
+
+- [React-reconciler](https://github.com/facebook/react/tree/main/packages/react-reconciler) 
+- [pixijs](https://www.pixijs.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
